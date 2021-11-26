@@ -1,5 +1,30 @@
 # Python-ML
-## 파이썬 머신러닝 완벽 가이드
+## 1 : 혼자 공부하는 머신러닝 딥러닝
+* Ch01 ML introduction
+###
+* Ch02 Data processing
+###
+* Ch03 Regression and Regularization
+  - K-nearest Regression
+  - Linear Regression
+  - Feature Engineering
+  - Regularization
+###
+* Ch04 Classification
+  - Logistic Regression
+  - Stochastic Gradient Descent
+* Ch05 Tree Algorithm
+  - Decision Tree
+  - Cross Validation
+  - Greed Search
+  - Ensemble
+* Ch06 Unsupervised Learning
+  - Clustering
+  - K-means
+  - Principal Component Analysis(PCA)
+
+
+## 2 : 파이썬 머신러닝 완벽 가이드
 
 ###
 * Ch01 Python
@@ -19,3 +44,4 @@
 * Ch08 Text analysis
 ###
 * Ch09 Recommandation System
+
